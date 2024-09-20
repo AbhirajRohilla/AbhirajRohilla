@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ecommerce project](https://github.com/AbhirajRohilla/Ecommerce_java)
 
-- 💬 Ask me about **Js, ReactJs, NodeJs, SPringBoot.**
+- 💬 Ask me about **Js, ReactJs, NodeJs, SpringBoot.**
 
 - 📫 How to reach me **abhirajrohilla@gmail.com**
 
